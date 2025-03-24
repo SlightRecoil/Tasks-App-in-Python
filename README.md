@@ -5,3 +5,7 @@ I  started this repository after losing motivation on a Qt project. While workin
 ## Structuring
 
 It will be structured just like the old one, except that I'm coding everything in python.
+
+## AI Support
+  I've used chatgpt to assist with learning and commentation/documentation, as well as automating boring and repetitive tasks.
+
